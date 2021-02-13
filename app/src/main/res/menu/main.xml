@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:onClick="goToSettings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_phonedialer"
+        android:onClick="goToPhoneDialer"
+        android:orderInCategory="100"
+        android:title="@string/action_phonedialer"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_flash"
+        android:onClick="goToFlash"
+        android:title="@string/lanterna"
+        app:showAsAction="never"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/action_contact"
+        android:onClick="goToContactManager"
+        android:title="@string/contactmanager"
+        app:showAsAction="never"
+        android:orderInCategory="100"/>
+</menu>

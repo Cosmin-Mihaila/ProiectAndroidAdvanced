@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">ProiectAndroidAdvanced</string>
+    <string name="navigation_drawer_open">Deschide navigatia</string>
+    <string name="navigation_drawer_close">Inchuide Navigatia</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Capul Navigatiei</string>
+    <string name="action_settings">Setari</string>
+    <string name="action_phonedialer">Formare Numar</string>
+
+    <string name="menu_home">Acasa</string>
+    <string name="menu_gallery">Lista Recycler View</string>
+    <string name="menu_slideshow">Slide-uri</string>
+    <string name="menu_phonedialer">Formare Numar</string>
+
+    <string name="number_0">0</string>
+    <string name="number_1">1</string>
+    <string name="number_2">2</string>
+    <string name="number_3">3</string>
+    <string name="number_4">4</string>
+    <string name="number_5">5</string>
+    <string name="number_6">6</string>
+    <string name="number_7">7</string>
+    <string name="number_8">8</string>
+    <string name="number_9">9</string>
+    <string name="star">*</string>
+    <string name="pound">#</string>
+    <string name="ro_en">RO/EN</string>
+    <string name="dark_light_mode">Noapte/Zi Mod</string>
+    <string name="lanterna">Lanterna</string>
+
+    <string name="local_service_started">1</string>
+    <string name="local_service_stopped">12</string>
+    <string name="local_service_label">dda</string>
+    <string name="serviciu">Serviciu</string>
+    <string name="name">Nume</string>
+    <string name="phone_number">Numar Telefon</string>
+    <string name="email">Email</string>
+    <string name="address">Adresa</string>
+    <string name="save">Salvare</string>
+    <string name="cancel">Anulare</string>
+    <string name="job_title">Job Title</string>
+    <string name="company">Company</string>
+    <string name="website">Website</string>
+    <string name="IM">IM</string>
+    <string name="phone_error">Numar de telefon este invalid</string>
+    <string name="show_additional_fields">Arata campurile aditionale</string>
+    <string name="hide_additional_fields">Ascunde campurile aditionale</string>
+    <string name="contactmanager">Manager Contacte</string>
+</resources>
